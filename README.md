@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stm32f7-discovery-blinky
 Simple "blinky" and printf/ITM example for the STM32F7 Discovery board:
 http://www.st.com/stm32f7-discovery
@@ -17,3 +18,7 @@ Drivers:
 
 * STM32CubeF7 v1.1.0:
   http://www.st.com/web/en/catalog/tools/PF261909
+=======
+# stm32f7-disco
+Display development by stm32f746g-disco
+>>>>>>> 4a9f7f7c5d3921b8d5cf00d36a08b5ded818e693
